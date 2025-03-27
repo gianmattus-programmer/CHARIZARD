@@ -1,7 +1,7 @@
 # 🔥 Carta Pokémon - Charizard
 
 <div align="center">
-  <img src="preview.png" alt="Vista previa de la carta Charizard" width="300px">
+  <img src="preview.png" alt="Vista previa de la carta Charizard" width="900px">
 </div>
 
 ## 📋 Descripción
