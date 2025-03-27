@@ -31,10 +31,6 @@ git clone https://github.com/gianmattus-programmer/CARTA-POKEMON.git
 ## 💡 Inspiración
 Este proyecto fue creado como una demostración de las capacidades de CSS moderno y como homenaje a la icónica serie Pokémon.
 
-## 👨‍💻 Autor
-**Gianmattus-Programmer**
-- GitHub: [@gianmattus-programmer](https://github.com/gianmattus-programmer)
-
 ## 📄 Licencia
 Este proyecto está bajo la Licencia MIT - ver el archivo [LICENSE.md](LICENSE.md) para detalles completos.
 
